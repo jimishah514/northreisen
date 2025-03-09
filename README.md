@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# North Pakistan Tourism Website
+
+A modern, responsive website built with Next.js 15 to promote tourism in North Pakistan. The website showcases the breathtaking landscapes, adventure activities, cultural experiences, and tour packages available in the region.
+
+## Features
+
+- **Responsive Design**: Fully responsive design that works on all devices
+- **Modern UI**: Clean and modern user interface with Tailwind CSS
+- **Dark Mode Support**: Automatic dark mode based on user preferences
+- **Interactive Components**: Dynamic components for better user experience
+- **Tour Booking System**: Add tours to cart and checkout functionality
+- **Filtering Options**: Filter activities and tours by category or difficulty
+
+## Key Sections
+
+- **Destinations**: Showcasing popular destinations like Hunza Valley, Skardu, Swat Valley, and Fairy Meadows
+- **Activities**: Highlighting adventure activities such as trekking, mountain biking, jeep safaris, and cultural immersion
+- **Tours**: Featuring curated tour packages with detailed information and booking options
+- **Testimonials**: Real feedback from travelers who have experienced North Pakistan
+
+## Technologies Used
+
+- **Next.js 15**: For server-side rendering and optimized performance
+- **React 19**: For building the user interface
+- **Tailwind CSS 4**: For styling and responsive design
+- **TypeScript**: For type safety and better developer experience
+- **Context API**: For state management (cart functionality)
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Deployment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The site can be easily deployed to Vercel or any other hosting platform that supports Next.js.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Future Enhancements
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- User authentication and profiles
+- Online payment integration
+- Review and rating system
+- Interactive maps for destinations
+- Multi-language support
+- Admin dashboard for managing tours and bookings
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Images would be sourced from various photographers (with proper attribution)
+- Inspiration from various travel websites and Pakistan Tourism Development Corporation

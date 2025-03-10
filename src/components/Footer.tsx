@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="mb-8 md:mb-0">
             <h3 className="text-xl font-semibold text-emerald-400 mb-4">
-              North Pakistan
+              North Reisen
             </h3>
             <p className="text-gray-300 text-sm">
               Explore the majestic beauty of North Pakistan. From towering
@@ -93,10 +93,12 @@ export default function Footer() {
             <h4 className="text-lg font-medium text-white mb-4">Contact</h4>
             <ul className="space-y-2">
               <li className="text-gray-300 text-sm">
-                <span className="block">Email: info@northpakistan.com</span>
+                <span className="block">
+                  Email: jamalmoosvi@northreisen.com
+                </span>
               </li>
               <li className="text-gray-300 text-sm">
-                <span className="block">Phone: +92 123 456 7890</span>
+                <span className="block">Phone: +92 345 050 5282</span>
               </li>
               <li className="mt-4">
                 <div className="flex space-x-4">

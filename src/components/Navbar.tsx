@@ -17,7 +17,7 @@ export default function Navbar() {
           <div className="flex">
             <Link href="/" className="flex-shrink-0 flex items-center">
               <span className="text-xl font-bold text-emerald-600 dark:text-emerald-400">
-                North Pakistan
+                North Reisen
               </span>
             </Link>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
